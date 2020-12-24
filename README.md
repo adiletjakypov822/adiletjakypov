@@ -1,7 +1,7 @@
 OOP
 
 
-This program will help you to save your debt. It is very simple to use so any newcomer ho dont know java and postgresql can run it and see how it works. 
+This program will help you to save your debt. It is very simple to use so any newcomer who dont know java and postgresql can run it and see how it works. 
 
 
 
